@@ -1,5 +1,5 @@
 {
-  "name": "compressing",
+  "name": "compressing-enc",
   "version": "1.4.0",
   "description": "Everything you need for compressing and uncompressing",
   "main": "index.js",
